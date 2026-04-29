@@ -1,0 +1,29 @@
+Setelah proses download selesai kembali ke virtual box lalu klik new yang berada di pojok kiri atas untuk membuat file baru
+Pada tahap pembuatan Virtual Machine, pengguna mengisi form konfigurasi dengan spesifikasi.
+Menentukan Folder penyimpanan dan memilih type dan version
+Pada bagian ini proses instalasi system operasi dilakukan secara otomatis tanpa banyak campur tangan pengguna.
+Mengatur RAM (Memory Size)
+Membuat virtual hard disk, menentukan ukuran, type, dan format hard disk lalu tekan “Finish”
+Setelah selesai akan muncul tampilan seperti ini
+Memilih ubuntu yang ada di pojok kiri atas lalu klik Start
+Maka akan muncul tampilan seperti ini
+Memilih Bahasa yang akan digunakan lalu klik next
+Menu ini berfungsi untuk mengatur fitur bantuan seperti pembesar layer dan lain-lain, lalu klik next
+Memilih keyboard layout lalu klik next
+Menghubungkan ke internet pilih salah satu lalu klik next
+Memilih apa yang ingin dilakukan diubuntu, klik pasang ubuntu dan klik next15.Jenis pemasangan ubuntu, pilih salah saatu lalu klik next
+Pemilihan aplikasi yang akan dipasang, pilih yang ingin dipasang oleh pengguna lalu klik next
+Pemilihan jenis instalasi, pilih perangkat lunak yang direkomendasikan, pilih lalu klik next
+Tipe instalasi, bagaimana pengguna ingin menginstall ubuntu, pilih salah satu lalu klik next
+Pada tahap ini pengguna diminta untuk membuat akun sistem lalu klik next
+Pemilihan zona waktu, memilih lokasi lalu klik next
+Menu ini menampilkan opsi yang telah pengguna pilih lalu klik pasang
+22, instalasi telah dimulai, tunggu hingga instalasi selesai
+Instalasi telah selesai, sekarang klik ”Restart Now”
+Memasuki ubuntu
+25.Klik nama pengguna lalu masukkan kata sandi yang telah ditetapkan
+Memasuki ubuntu
+Ubuntu sukses terinstal lalu klik next
+Aktifkan ubuntu pro dan klik next
+Membantu memperbaiki ubuntu lalu klik next
+klik selesai dan ubuntu siap digunakan
