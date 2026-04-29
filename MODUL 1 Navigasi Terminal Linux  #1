@@ -1,0 +1,12 @@
+ls
+ls -l
+⁠ls -la
+⁠cd (pindah folder)
+⁠cd .. (keluar folder)
+⁠pwd (mengetahui posisi dimana)
+⁠mkdir teknologi (membuat folder)
+touch (membuat file)
+⁠rm -r it (menghapus file)
+cp (unntuk menggandakan file)
+⁠mv so.txt informasi.txt (rename file)
+⁠cat informasi.txt (mengetahui isi file)
