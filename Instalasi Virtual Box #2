@@ -1,0 +1,17 @@
+Klik Oracle VirtualBox untuk mendownload VirtualBox di chrome
+Selanjutnya klik Download untuk mendownload
+Klik Windows host untuk pilihan dowload dibagian VirtualBox Platfrom Packages
+Saat berhasil di download, lalu buka VirtualBox pastikan tampilan seperti gambar dibawah ini lalu klik next
+Setelah itu klik salah satu antara modify, repair or remove untuk installation
+Menunggu proses penginstalan
+Penginstalan Selesai, setelah itu klik Finish
+Klik “ I accept the terms of the license agreement” dan klik next
+Dibagian costup setup, pastikan memilih VirtualBox application dan location direkomendasikan di drive C:\ Program Files\Oracle\ VirtualBox\ kemudian klik next
+Klik Yes hingga diarahkan ke Missing Dependencies
+Selanjutnya klik tanda centang untuk tiga-tiga nya lalu klik next
+Dibagian ini VirtualBox akan siap diinstall, klik install untuk menginstal
+Menunggu proses pengistalan terakhir untuk VirtualBox
+Proses Penginstalan Selesai dan VirtualBox siap digunakan
+Ketik ubuntu dipencarian chrome lalu klik “Get Ubuntu | Download”
+Lalu klik desktop dan klik Download disisi kanan
+Tunggu hingga installasi selesai
